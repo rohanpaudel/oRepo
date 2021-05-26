@@ -1,1 +1,3 @@
-Hello this is file 1.  2
+Hello this is file 1.
+
+This is beautiful file
